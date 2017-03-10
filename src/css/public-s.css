@@ -1,0 +1,7 @@
+.s-nav li:nth-child(2){
+	background: #defaff;	
+}
+.s-nav li:nth-child(2) a{
+	color: #1467eb;
+	font-weight: bold
+}
